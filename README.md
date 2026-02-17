@@ -167,3 +167,9 @@ Diseñar una solución tipo carrito de compras para gestionar pedidos del cafet�
 - Producto 1 — N DetallePedido
 
 ---
+
+## VIDEO 
+**Link:** <https://youtu.be/NJiEIs3jqPs?feature=shared>
+
+## PRESENTACION 
+**Link:** <https://gamma.app/docs/De-Design-Thinking-MoSCoW-Scrum-al-MVP-9kgxi56kzarrn12>
